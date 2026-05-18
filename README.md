@@ -33,5 +33,4 @@ The sum of 5.0 and 7.0 is 12.0.
 ```
 
 ## GitHub Description
-
 A simple Python application that calculates the sum of two numbers.
